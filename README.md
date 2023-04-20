@@ -18,7 +18,8 @@ This formula holds regardless of whether you’re calculating the daily return, 
 
 ##  Extracting Relevant Data
 There’s quite a lot of things going on here but let’s just see what the information is.
-<img width="1440" alt="Captura de pantalla 2023-04-19 a la(s) 19 40 42 (2)" src="https://user-images.githubusercontent.com/81563915/233237084-6d892974-cc82-4d7a-93b4-116a21fff570.png">
+<img width="1920" alt="Captura de pantalla 2023-04-19 a la(s) 19 40 42" src="https://user-images.githubusercontent.com/81563915/233237148-65bce846-f846-4f60-aaa7-711bcb0edb19.png">
+
 
 We’ve got the  **Date**, which is the date of trading.
 
