@@ -47,10 +47,11 @@ We only really need the Date and Adjusted Close columns so we’re going to keep
 
 Calculating stock returns on R is actually incredibly straightforward.
 https://github.com/thronOne97/stock_profits/blob/de7d26690b2bbd297e9bd3351c4d6152007114b7/stockprofits.R
+
 While the prices sometimes appears predictable, they are not since returns follow a "random walk".
+
 ![Rplot22](https://user-images.githubusercontent.com/81563915/233237769-e9e9481b-71cb-4208-a936-46db4c17d63a.png)
 
 Importantly, I base the investment decisions on "expected returns", not returns.
+
 ![Rplot02](https://user-images.githubusercontent.com/81563915/233237964-89bb3d66-61cd-47ec-a89b-d915bed6582b.png)
-
-
