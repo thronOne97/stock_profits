@@ -7,7 +7,7 @@
 # Formula  stock return 
 
 To calculate the total stock return I use this formula:
-$ r_j = \frac{P_{t+1}}{P_t} - \frac{P_t}{P_t} = \frac{P_{t+1}}{P_t} - 1$
+$ r_j = $\frac{P_{t+1}}{P_t}$ - \frac{P_t}{P_t} = \frac{P_{t+1}}{P_t} - 1$
 Where $r_j$ reflects the return on a stock $j$.
 
 $P_{t+1}$  refers to the price at time $t+1$, that means the price you sell the stock for.
