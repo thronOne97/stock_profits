@@ -14,9 +14,12 @@ $P_{t+1}$  refers to the price at time $t+1$, that means the price you sell the 
 
 $P_t$ reflects the price at time $t$, that's the price you bought the stock for.
 
-This formula holds regardless of whether you’re calculating the daily return, weekly return, monthly return, or annual return _depending on the data you’re working with. I
+This formula holds regardless of whether you’re calculating the daily return, weekly return, monthly return, or annual return _depending on the data you’re working with.
+
 ##  Extracting Relevant Data
 There’s quite a lot of things going on here but let’s just see what the information is.
+<img width="1440" alt="Captura de pantalla 2023-04-19 a la(s) 19 40 42 (2)" src="https://user-images.githubusercontent.com/81563915/233237084-6d892974-cc82-4d7a-93b4-116a21fff570.png">
+
 We’ve got the  **Date**, which is the date of trading.
 
 Then we’ve got  **Open**, which is the price at which the stock opened.
